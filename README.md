@@ -144,6 +144,7 @@ O projeto conta com um dashboard desenvolvido no Excel para apresentar os princi
 - Bottom 10 produtos por volume de vendas
 
 ![Dashboard](./04_Dashboard.png)
+![Dashboard](./05_Dashboard.png)
 
 ---
 
